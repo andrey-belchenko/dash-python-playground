@@ -4,10 +4,11 @@ dependencies:
   - python=3.8.0
   - pip
   - pip:
-    - numpy==1.19
+    - numpy==1.18.1
     - pandas==1.0.1
     - plotly==4.5.3
-    - dash==1.8.0
+    - dash==1.19
     - gunicorn==20.0.4
+    - pyodbc
 
 
